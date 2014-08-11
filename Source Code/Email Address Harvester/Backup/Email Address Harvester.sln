@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Email Address Harvester", "Email Address Harvester.vbproj", "{3BF33578-163E-465B-83F1-0B85E615F4DB}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3BF33578-163E-465B-83F1-0B85E615F4DB}.Debug.ActiveCfg = Debug|.NET
+		{3BF33578-163E-465B-83F1-0B85E615F4DB}.Debug.Build.0 = Debug|.NET
+		{3BF33578-163E-465B-83F1-0B85E615F4DB}.Release.ActiveCfg = Release|.NET
+		{3BF33578-163E-465B-83F1-0B85E615F4DB}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

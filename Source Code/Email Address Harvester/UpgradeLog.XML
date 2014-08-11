@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Email Address Harvester">
+</Property><Property Name="Solution File" Value="C:\Work Projects\Completed Projects\Email Address Harvester - 20 November 2006\Source Code\Email Address Harvester\Email Address Harvester.sln">
+</Property><Property Name="User Options File" Value="C:\Work Projects\Completed Projects\Email Address Harvester - 20 November 2006\Source Code\Email Address Harvester\Email Address Harvester.suo">
+</Property><Property Name="Date" Value="22 November 2006">
+</Property><Property Name="Time" Value="11:21 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Email Address Harvester.sln" Description="File successfully backed up as C:\Work Projects\Completed Projects\Email Address Harvester - 20 November 2006\Source Code\Email Address Harvester\Backup\Email Address Harvester.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Email Address Harvester.suo" Description="File successfully backed up as C:\Work Projects\Completed Projects\Email Address Harvester - 20 November 2006\Source Code\Email Address Harvester\Backup\Email Address Harvester.suo">
+</Event><Event ErrorLevel="0" Project="Email Address Harvester" Source="Email Address Harvester.vbproj" Description="Project file successfully backed up as C:\Work Projects\Completed Projects\Email Address Harvester - 20 November 2006\Source Code\Email Address Harvester\Backup\Email Address Harvester.vbproj">
+</Event><Event ErrorLevel="0" Project="Email Address Harvester" Source="Email Address Harvester.vbproj.user" Description="Project user file successfully backed up as C:\Work Projects\Completed Projects\Email Address Harvester - 20 November 2006\Source Code\Email Address Harvester\Backup\Email Address Harvester.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Email Address Harvester" Source="Application_Code.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Email Address Harvester - 20 November 2006\Source Code\Email Address Harvester\Backup\Application_Code.vb">
+</Event><Event ErrorLevel="0" Project="Email Address Harvester" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Email Address Harvester - 20 November 2006\Source Code\Email Address Harvester\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Email Address Harvester" Source="app.config" Description="File successfully backed up as C:\Work Projects\Completed Projects\Email Address Harvester - 20 November 2006\Source Code\Email Address Harvester\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Email Address Harvester" Source="Application_Icon.ico" Description="File successfully backed up as C:\Work Projects\Completed Projects\Email Address Harvester - 20 November 2006\Source Code\Email Address Harvester\Backup\Application_Icon.ico">
+</Event><Event ErrorLevel="0" Project="Email Address Harvester" Source="Email Address Harvester.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Email Address Harvester" Source="Email Address Harvester.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Email Address Harvester.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Email Address Harvester.sln" Description="Converted">
+</Event><Event ErrorLevel="3" Project="Email Address Harvester" Source="Application_Code.vb" Description="file converted">
+</Event></UpgradeLog>
